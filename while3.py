@@ -5,3 +5,6 @@ while index < len(number):
     if number[index] % 2 == 0:
         print(number[index])
     index += 1
+    
+    
+  
